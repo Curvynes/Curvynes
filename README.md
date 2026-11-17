@@ -23,11 +23,13 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 
 ## Spoken languages
 
-- 🇬🇧 **English** — Fluent
-- 🇩🇪 **German** — Native
+- 🇬🇧 **English** - Fluent
+- 🇩🇪 **German** - Native
+- 🇨🇭 **Swiss German** - Native
 
 ## Contributions
 
