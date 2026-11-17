@@ -2,17 +2,18 @@
 
 # Hey, I'm Curvynes!
 
-### Curious developer building with C++ and Python
+### What I cannot create, I do not understand.
 
 </div>
 
 ## About me
 
-I'm a curious developer who enjoys turning ideas into projects. I like exploring both **embedded development** and **web development**, and following an idea wherever it takes me.
+I'm an apprentice who is currently learning a hand full of diverse programming languages.
+I like tinkering with both hardware and software, as long it fits my budget.
 
-I'm currently programming in **C++**, **Python**, and **Java**, and looking forward to learning **Go**, **Lua**, **Zig**, and **Godot**.
+I am generally against the idea of using AI to write entire codebases or complete assignments, although I believe that using AI can be, and will become, increasingly efficient.
 
-When I'm away from code, I'm usually **playing games**, **reading manga**, or **watching anime**.
+When I'm not coding (which is most of the time), I'm usually playing games or watching anime.
 
 ## Programming languages & tools
 
