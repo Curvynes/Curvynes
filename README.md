@@ -8,8 +8,11 @@
 
 ## About me
 
-- I enjoy building whatever my mind desires whether it is Embedded or Web Development.
-- I play a lot of games and also read too many mangas and watch animes.
+I'm a curious developer who enjoys turning ideas into projects. I like exploring both **embedded development** and **web development**, and following an idea wherever it takes me.
+
+I'm currently programming in **C++**, **Python**, and **Java**, and looking forward to learning **Go**, **Lua**, **Zig**, and **Godot**.
+
+When I'm away from code, I'm usually **playing games**, **reading manga**, or **watching anime**.
 
 ## Programming languages & tools
 
